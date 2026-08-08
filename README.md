@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E93,100:00B4D8&height=220&section=header&text=Maruf%20Ahmed%20Masum&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Team%20Lead%20%40%20DataSoft%20%7C%20Fintech%20Platforms%20%26%20AI%20Automation&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](./banner.svg)
 
 # Hi 👋, I'm Maruf Ahmed Masum
 

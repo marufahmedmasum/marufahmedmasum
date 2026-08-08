@@ -15,14 +15,23 @@ I've worked with **Microfin360Next**, a microfinance management platform, for th
 
 ### 🛠️ Tech Stack
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**⚡ Automation & AI**
+`n8n Workflow Automation` `AI Agents` `Prompt Engineering`
+
+**🤖 Vibe Coding**
+`Antigravity AI / Agentic Coding` `Cursor / Kiro / VS Code Integration` `LLM Prompts & Fine-tuning` `Rapid SaaS Prototyping` `100% Free-Tier Tooling`
+
+**🔌 Platforms & Integrations**
+`Telegram Bot API` `Gmail API` `Google Sheets` `Groq LLM` `Apify` `Microsoft Power BI` `SQL Data Analysis`
+
+**🏢 Domain / Enterprise SaaS**
+`Microfin360Next` `Loan Management Systems` `Banking & Financial Services` `Microfinance/NGO Sector` `ERP Consulting`
+
+**📈 Business Analysis**
+`Requirements Gathering` `Stakeholder Management` `SaaS Implementation` `Client Support & Training`
+
+**📊 Marketing Tech**
+`Facebook Pixel` `Conversions API (CAPI)` `Google Tag Manager (GTM)`
 
 ---
 
@@ -46,3 +55,7 @@ I've worked with **Microfin360Next**, a microfinance management platform, for th
 
 ---
 
+### 📊 GitHub Stats
+
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufahmedmasum&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufahmedmasum&layout=compact&hide_border=true)

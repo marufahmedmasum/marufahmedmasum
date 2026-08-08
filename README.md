@@ -4,7 +4,7 @@
 
 ### Team Lead @ DataSoft Systems Bangladesh | Fintech Platforms & AI-Powered Automation
 
-I build and maintain **Microfin360Next**, a microfinance management platform, and design **n8n-based AI automation workflows** — from Telegram-driven task managers to RAG-powered support agents.
+I've worked with **Microfin360Next**, a microfinance management platform, for the last 11 years, and I design **n8n-based AI automation workflows** — from Telegram-driven task managers to RAG-powered support agents.
 
 - 🏦 Deep domain expertise in Loan Management, HR, Asset Management, Audit, Fund Management, and Trading modules on Microfin360Next
 - 🤖 Building n8n automations that connect Telegram, Google Workspace, Gmail, and LLMs (Groq, Cohere) into real workflows

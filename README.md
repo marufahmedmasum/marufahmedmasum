@@ -138,7 +138,4 @@ Cleans and validates messy customer data on demand via a Telegram bot.
 
 ---
 
-### 📊 GitHub Stats
 
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufahmedmasum&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufahmedmasum&layout=compact&hide_border=true)
